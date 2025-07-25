@@ -105,8 +105,9 @@ function App() {
         <input className='exp' type='number' placeholder='Work experience (Years)'></input><br></br><br></br>
         <input className='edu' type='number' placeholder='Years of formal education'></input><br></br><br></br>
         <button onClick={calculate} className='button'>Calculate</button>
-   
     </div>
+       <footer>This is solely for entertainment puroposes, please take it lightly and mujhe gaali dene ki koi zarurat nhi hai!</footer>
+
       </section>
     </>
   )
